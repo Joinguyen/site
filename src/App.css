@@ -1,0 +1,39 @@
+html,
+body {
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizelegibility;
+    width: 100%;
+    min-height: 100vh;
+    user-select: none;
+    outline: none;
+    position: relative;
+}
+/* Avoid Chrome to see Safari hack */
+@supports (-webkit-touch-callout: none) {
+    html,
+    body,
+    .gitbook-root {
+        /* The hack for Safari */
+        min-height: -webkit-fill-available;
+    }
+}
+.gitbook-root {
+    display: flex;
+    min-height: 100vh;
+}
+
+.active-nav{
+  transition-duration: 0.25s;
+  background-color: rgba(133, 163, 224, 0.1);
+}
+.active-nav div{
+  color: rgba(52,109,219,1.00)!important;
+  font-weight: 700;
+}
+.d-none{
+  display: none;
+}
+.show-copy{
+  right: 10px;
+  bottom: 10px;
+}
