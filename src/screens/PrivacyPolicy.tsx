@@ -5,7 +5,7 @@ import { Link } from "react-router-dom"
 function PrivacyPolicy() {
     useEffect(() => {
         document.title = 'PRIVACY POLICY';
-      }, []);
+    }, []);
     return (
         <main
             translate="no"
@@ -34,7 +34,7 @@ function PrivacyPolicy() {
                                         PRIVACY POLICY
                                     </h1>
                                 </div>
-                                
+
                             </div>
                             <div className="css-175oi2r r-1wzrnnt" />
                         </div>
@@ -3382,7 +3382,7 @@ function PrivacyPolicy() {
                                                                     </span>
                                                                 </span>
                                                                 <a
-                                                                    href="mailto:hailey0hailey0@gmail.com"
+                                                                    href="mailto:83roypartners@gmail.com"
                                                                     data-rnwi-5xr8s6-dse9kg-2fw26j-cb7i37-focus-visible="true"
                                                                     data-rnwi-handle="link"
                                                                     className="css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1471scf"
@@ -3397,7 +3397,7 @@ function PrivacyPolicy() {
                                                                     >
                                                                         <span data-key="3d3b548bcd3a4f4ca1d41e3ceb3b1831">
                                                                             <span data-offset-key="3d3b548bcd3a4f4ca1d41e3ceb3b1831:0">
-                                                                                hailey0hailey0@gmail.com
+                                                                                83roypartners@gmail.com
                                                                             </span>
                                                                         </span>
                                                                     </span>
@@ -3590,7 +3590,7 @@ function PrivacyPolicy() {
                                                                     </span>
                                                                 </span>
                                                                 <a
-                                                                    href="mailto:hailey0hailey0@gmail.com"
+                                                                    href="mailto:83roypartners@gmail.com"
                                                                     data-rnwi-5xr8s6-dse9kg-2fw26j-cb7i37-focus-visible="true"
                                                                     data-rnwi-handle="link"
                                                                     className="css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1471scf"
@@ -3605,7 +3605,7 @@ function PrivacyPolicy() {
                                                                     >
                                                                         <span data-key="52b3cf9150744539bcc1e32d306e2cd2">
                                                                             <span data-offset-key="52b3cf9150744539bcc1e32d306e2cd2:0">
-                                                                                hailey0hailey0@gmail.com
+                                                                                83roypartners@gmail.com
                                                                             </span>
                                                                         </span>
                                                                     </span>
@@ -4007,7 +4007,7 @@ function PrivacyPolicy() {
                                                                     </span>
                                                                 </span>
                                                                 <a
-                                                                    href="mailto:hailey0hailey0@gmail.com"
+                                                                    href="mailto:83roypartners@gmail.com"
                                                                     data-rnwi-5xr8s6-dse9kg-2fw26j-cb7i37-focus-visible="true"
                                                                     data-rnwi-handle="link"
                                                                     className="css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1471scf"
@@ -4022,7 +4022,7 @@ function PrivacyPolicy() {
                                                                     >
                                                                         <span data-key="cabbf6137a1b40dd8783d50e2bcb5bbc">
                                                                             <span data-offset-key="cabbf6137a1b40dd8783d50e2bcb5bbc:0">
-                                                                                hailey0hailey0@gmail.com
+                                                                                83roypartners@gmail.com
                                                                             </span>
                                                                         </span>
                                                                     </span>
@@ -4536,7 +4536,7 @@ function PrivacyPolicy() {
                                                                     </span>
                                                                 </span>
                                                                 <a
-                                                                    href="mailto:hailey0hailey0@gmail.com"
+                                                                    href="mailto:83roypartners@gmail.com"
                                                                     data-rnwi-5xr8s6-dse9kg-2fw26j-cb7i37-focus-visible="true"
                                                                     data-rnwi-handle="link"
                                                                     className="css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1471scf"
@@ -4551,7 +4551,7 @@ function PrivacyPolicy() {
                                                                     >
                                                                         <span data-key="022a66fcb8d64d6ba4c3ed3d1b24bce5">
                                                                             <span data-offset-key="022a66fcb8d64d6ba4c3ed3d1b24bce5:0">
-                                                                                hailey0hailey0@gmail.com
+                                                                                83roypartners@gmail.com
                                                                             </span>
                                                                         </span>
                                                                     </span>
@@ -7211,7 +7211,7 @@ function PrivacyPolicy() {
                                                                     </span>
                                                                 </span>
                                                                 <a
-                                                                    href="mailto:hailey0hailey0@gmail.com"
+                                                                    href="mailto:83roypartners@gmail.com"
                                                                     data-rnwi-5xr8s6-dse9kg-2fw26j-cb7i37-focus-visible="true"
                                                                     data-rnwi-handle="link"
                                                                     className="css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1471scf"
@@ -7226,7 +7226,7 @@ function PrivacyPolicy() {
                                                                     >
                                                                         <span data-key="ad36da96b9cf45f69a3ccedfb3112da2">
                                                                             <span data-offset-key="ad36da96b9cf45f69a3ccedfb3112da2:0">
-                                                                                hailey0hailey0@gmail.com
+                                                                                83roypartners@gmail.com
                                                                             </span>
                                                                         </span>
                                                                     </span>
@@ -7274,7 +7274,7 @@ function PrivacyPolicy() {
                                                                     </span>
                                                                 </span>
                                                                 <a
-                                                                    href="mailto:hailey0hailey0@gmail.com"
+                                                                    href="mailto:83roypartners@gmail.com"
                                                                     data-rnwi-5xr8s6-dse9kg-2fw26j-cb7i37-focus-visible="true"
                                                                     data-rnwi-handle="link"
                                                                     className="css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1471scf"
@@ -7289,7 +7289,7 @@ function PrivacyPolicy() {
                                                                     >
                                                                         <span data-key="ccb1ae1bbaa24ed5a2d5473322680f76">
                                                                             <span data-offset-key="ccb1ae1bbaa24ed5a2d5473322680f76:0">
-                                                                                hailey0hailey0@gmail.com
+                                                                                83roypartners@gmail.com
                                                                             </span>
                                                                         </span>
                                                                     </span>
@@ -7351,7 +7351,7 @@ function PrivacyPolicy() {
                                                                     </span>
                                                                 </span>
                                                                 <a
-                                                                    href="mailto:hailey0hailey0@gmail.com"
+                                                                    href="mailto:83roypartners@gmail.com"
                                                                     data-rnwi-5xr8s6-dse9kg-2fw26j-cb7i37-focus-visible="true"
                                                                     data-rnwi-handle="link"
                                                                     className="css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1471scf"
@@ -7366,7 +7366,7 @@ function PrivacyPolicy() {
                                                                     >
                                                                         <span data-key="97a0503d994747c896bd6e22f7dd4601">
                                                                             <span data-offset-key="97a0503d994747c896bd6e22f7dd4601:0">
-                                                                                hailey0hailey0@gmail.com
+                                                                                83roypartners@gmail.com
                                                                             </span>
                                                                         </span>
                                                                     </span>
